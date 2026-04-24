@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Notebooks
+data/*.csv
+data/*.xlsx
+data/*.json
